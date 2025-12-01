@@ -16,7 +16,7 @@ This project combines SolidWorks and MATLAB Simscape Multibody to model and simu
 
 <img width="2560" height="1440" alt="Screenshot from 2025-11-13 19-31-15" src="https://github.com/user-attachments/assets/52f7f8f0-825d-4e3a-8c06-ec13981b81ca" />
 
-## Machanics Explorer Robotic ARM
+## Machanics Explorer of the Robotic ARM
 
 <img width="2560" height="1440" alt="Screenshot from 2025-11-13 19-31-07" src="https://github.com/user-attachments/assets/4efc99a2-b7c6-4735-8058-444b736cb1c4" />
 
@@ -26,9 +26,11 @@ This project combines SolidWorks and MATLAB Simscape Multibody to model and simu
 
 <img width="2560" height="1440" alt="Screenshot from 2025-11-23 21-14-26" src="https://github.com/user-attachments/assets/7f230037-19e2-4f26-94eb-1660326a42fb" />
 
-## Path Travelled by the Robotic ARM
+## Pattern Traced by the Robotic Arm
 
 <img width="2560" height="1440" alt="Screenshot from 2025-11-23 21-14-36" src="https://github.com/user-attachments/assets/e4b6868d-f18e-4c44-a1f1-978e93912d05" />
+
+
 
 
 🚀 Key Features
